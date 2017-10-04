@@ -1,0 +1,11 @@
+{
+  "name": "edibars-site",
+  "version": "1.0.0",
+  "description": "Edibars marketing website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "jabari",
+  "license": "ISC"
+}
